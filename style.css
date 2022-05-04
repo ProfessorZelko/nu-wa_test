@@ -43,7 +43,7 @@ html, body {
 
 .main-header {
     background-color: rgba(0, 0, 0, .5);
-    background-image: url("https://www.smitefire.com/images/god-wide-bgs/nu-wa.jpg");
+    background-image: url("./images/nu-wa.jpg");
     background-blend-mode: multiply;
     background-size: cover;
     padding-bottom: 40px;
