@@ -172,3 +172,19 @@ body {
 .match-button {
     max-width: 24%;
 }
+
+.match-button a {
+    text-decoration: none;
+    color: white;
+}
+
+.btn-primary {
+    background-color: #56CCF2;
+    border: none;
+    border-radius: .3em;
+    font-weight: bold;
+}
+
+.btn-primary:hover {
+    background-color: #2D9CDB;
+}
